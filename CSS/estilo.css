@@ -15,6 +15,7 @@ body {
 
 /* HEADER */
 
+
 /* CHANGE LANGUAGE */
 .languages {
 	width: 100%;
@@ -33,6 +34,7 @@ body {
 	color: #f7ac06;
 }
 
+
 /* NAVBAR */
 nav {
 	display: flex;
@@ -46,7 +48,7 @@ nav {
 
 .imgLogo {
 	position: relative;
-	width: 120px;
+	width: 140px;
 	cursor: pointer;
 	top: 50px;
 }
