@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bona+Nova&family=Montserrat&display=swap');
 
 /* GENERAL */
 * {
@@ -63,6 +63,7 @@ nav {
 .nav-links li a {
 	transition: color 0.3s ease 0s;
 	color: #353535;
+	font-size: 20px;
 }
 
 .nav-links li a:hover {
@@ -71,7 +72,7 @@ nav {
 
 .galeria {
 	position: relative;
-	top: 2.1rem;
+	top: 2.4rem;
 	padding-right: 30px !important;
 }
 
@@ -100,9 +101,86 @@ nav {
 	opacity: 1;
 }
 
+/* WELCOME */
+.welcome {
+	margin: auto 10%;
+}
+
+.paco-welcome {
+	float: left;
+	margin-left: 15%;
+	width: 600px;
+	box-shadow: 0 0 10px #666565;
+}
+
+.card-welcome {
+	float: right;
+	margin-right: 27%;
+	margin-top: 30px;
+	height: 400px;
+	width: 550px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #e9edf6;
+	position: relative;
+}
+
+.card-welcome h1 {
+	text-align: center;
+	font-size: 38px;
+	font-family: Bona Nova;
+	letter-spacing: 0.03em;
+	color: #373737;
+}
+
+.frame-welcome {
+	height: 400px;
+	width: 550px;
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	border: #353535 solid 1px;
+}
+
+.float-clear {
+	clear: both;
+}
+
+/* ABOUT ME */
+.about-me {
+	margin: 15rem 30% 10rem 30%;
+}
+
+.about-title h1,
+.about-title h3 {
+	font-family: Bona Nova;
+	text-align: center;
+	font-weight: normal;
+	letter-spacing: 0.03em;
+}
+
+.about-content {
+	margin-top: 40px;
+	display: flex;
+	gap: 2.5rem;
+	justify-content: center;
+}
+
+.about-content p {
+	width: 300px;
+	line-height: 28px;
+}
+
+/* BANNER */
+.banner {
+	width: 100%;
+	margin-top: ;
+}
+
 /* FOOTER */
 .footer {
-	position: fixed;
+	position: relative;
 	bottom: 0;
 	width: 100%;
 	padding: 80px;
