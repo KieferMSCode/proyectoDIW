@@ -410,6 +410,9 @@ textarea:hover {
 }
 
 /* iFRAME */
+.tablaiFrame {
+	margin: 0 auto 10% 20%;
+}
 
 iframe {
 	width: 600px;
@@ -426,6 +429,8 @@ iframe {
 
 .direction {
 	padding-left: 20%;
+	font-size: 20px;
+	font-weight: bold;
 }
 
 /* BANNER */
