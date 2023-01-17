@@ -15,7 +15,6 @@ body {
 
 /* HEADER */
 
-
 /* CHANGE LANGUAGE */
 .languages {
 	width: 100%;
@@ -33,7 +32,6 @@ body {
 .languages a:hover {
 	color: #f7ac06;
 }
-
 
 /* NAVBAR */
 nav {
@@ -177,7 +175,6 @@ nav {
 /* BANNER */
 .banner {
 	width: 100%;
-	margin-top: ;
 }
 
 /* FOOTER */
