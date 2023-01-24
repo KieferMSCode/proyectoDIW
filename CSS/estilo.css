@@ -68,7 +68,7 @@ body {
 nav {
 	width: 100%;
 	display: inline-block;
-	margin: 20px 25% 200px;
+	margin: 20px 0 200px 29%;
 }
 
 nav ul {
@@ -288,7 +288,7 @@ nav ul li:hover > ul {
 }
 
 #card-oleos .card-category {
-	background-color:#fde0b1;
+	background-color: #fde0b1;
 }
 
 #card-digital .card-category {
@@ -334,7 +334,6 @@ nav ul li:hover > ul {
 	overflow: hidden;
 	background-color: #f8f4ef;
 	box-shadow: 5px 5px 0px 0px rgb(226, 224, 224);
-
 }
 
 .article-photo {
@@ -346,7 +345,6 @@ nav ul li:hover > ul {
 	position: relative;
 	left: 350px;
 	width: 70%;
-	
 }
 
 .img-blog {
@@ -375,8 +373,6 @@ nav ul li:hover > ul {
 	text-decoration: none;
 	text-align: right;
 }
-
-
 
 /* GALLERY */
 
@@ -418,7 +414,7 @@ nav ul li:hover > ul {
 
 .div-Gallery {
 	margin: 0 auto;
-	width: 810px
+	width: 810px;
 }
 
 .cell-Gallery {
