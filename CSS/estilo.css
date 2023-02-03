@@ -166,6 +166,7 @@ nav ul li:hover > ul {
 	font-family: Bona Nova;
 	letter-spacing: 0.03em;
 	color: #373737;
+	color:#e9edf6e9
 }
 
 .frame-welcome {
@@ -214,6 +215,7 @@ nav ul li:hover > ul {
 	font-size: 20px;
 	width: 300px;
 	line-height: 28px;
+	color:#373737;
 }
 
 
@@ -460,9 +462,10 @@ video {
 .img-me1 {
 	width: 400px;
 	border-radius: 5px;
-	opacity: 80%;
+	opacity: 85%;
 	float: left;
 	border: 2px solid #f7ac06;
+	
 }
 
 
