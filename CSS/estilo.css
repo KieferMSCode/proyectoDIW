@@ -343,6 +343,7 @@ nav ul li:hover > ul {
 	justify-content: center;
 	align-items: flex-start;
 	flex-wrap: wrap;
+	margin-bottom: 115px;
 }
 
 .blog-box {
@@ -582,7 +583,7 @@ caption {
 .form {
 	float: left;
 	margin-left: 20%;
-	margin-bottom: 5%;
+	margin-bottom: 8%;
 }
 
 .contact {
@@ -661,7 +662,7 @@ textarea:focus {
 
 /* CONTACT */
 .tablaiFrame {
-	margin: 0 auto;
+	margin: 0 auto 55px auto;
 }
 
 iframe {
@@ -715,9 +716,6 @@ iframe {
 	width: 225px;
 	padding: 10px;
 	border-radius: 15px;
-}
-
-.merchan-card img:hover {
 }
 
 /* BANNER */
