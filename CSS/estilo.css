@@ -367,6 +367,16 @@ nav ul li:hover > ul {
 	height: 550px;
 }
 
+.blog-box:hover {
+	transform: translateY(-25px);
+	transition: all 0.3s ease-in;
+}
+
+.blog-box:hover .blog-img img {
+	opacity: 100%;
+	transition: all 0.3s ease-in;
+}
+
 .blog-img {
 	width: 100%;
 	height: 300px;
@@ -669,6 +679,7 @@ textarea:focus {
 	top: 20px;
 	left: 20px;
 	border: #353535 solid 1px;
+	animation: 1s ease-out 0s 1 unsetFrame;
 }
 
 /* CONTACT */
